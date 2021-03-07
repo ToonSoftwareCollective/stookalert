@@ -1,0 +1,3 @@
+module apps.stookalert
+StookalertScreen 1.0 StookalertScreen.qml
+StookalertApp 1.0 StookalertApp.qml
